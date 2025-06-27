@@ -68,9 +68,9 @@ http://localhost:3000
 ![Use Case](./appendix/joinPage.png)
 <p style="text-align: center">Join page</p>
 
----
 ![Use Case](./appendix/index2.png)
 <p style="text-align: center">Index page</p>
 ---
+
 ## 🤝 Contributing
 Pull requests are welcome.
